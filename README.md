@@ -67,3 +67,7 @@ When a user adds or deletes an expense, the database is updated and the dashboar
 - Expense editing
 - Additional analytics and visualizations
 - Automated tests
+
+## Dashboard Preview
+
+![Expense Tracker Dashboard](screenshots/dashboard.png)
